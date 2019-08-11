@@ -1,1 +1,1 @@
-# Program-Output
+# Contains the output of programs
